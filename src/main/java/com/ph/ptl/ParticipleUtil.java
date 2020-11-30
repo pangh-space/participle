@@ -26,12 +26,12 @@ public class ParticipleUtil {
     /**
      * 请求AccessKey
      */
-    public static String ACCESS_KEY_ID = "LTAI4G86V4bspwakFhSFDCAa";
+    public static String ACCESS_KEY_ID = "111";
 
     /**
      * 请求AccessKeySecret
      */
-    public static String ACCESS_KEY_SECRET = "NPuaclNrMoXTYVMgYvYhIcsWh6bY3y";
+    public static String ACCESS_KEY_SECRET = "111";
 
     /**
      * 根据传入参数，生成分词结构
